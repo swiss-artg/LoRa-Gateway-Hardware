@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name "LoRa_Hat")(type "Legacy")(uri "${KIPRJMOD}/LoRa_Hat.lib")(options "")(descr ""))
+  (lib (name "DigiLink-Micro")(type "KiCad")(uri "${KIPRJMOD}/Symbols/DigiLink-Micro.kicad_sym")(options "")(descr ""))
+)
